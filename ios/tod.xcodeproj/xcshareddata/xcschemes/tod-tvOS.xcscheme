@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "RNFirebaseStarter-tvOS.app"
-               BlueprintName = "RNFirebaseStarter-tvOS"
-               ReferencedContainer = "container:RNFirebaseStarter.xcodeproj">
+               BuildableName = "tod-tvOS.app"
+               BlueprintName = "tod-tvOS"
+               ReferencedContainer = "container:tod.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "RNFirebaseStarter-tvOSTests.xctest"
-               BlueprintName = "RNFirebaseStarter-tvOSTests"
-               ReferencedContainer = "container:RNFirebaseStarter.xcodeproj">
+               BuildableName = "tod-tvOSTests.xctest"
+               BlueprintName = "tod-tvOSTests"
+               ReferencedContainer = "container:tod.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "RNFirebaseStarter-tvOSTests.xctest"
-               BlueprintName = "RNFirebaseStarter-tvOSTests"
-               ReferencedContainer = "container:RNFirebaseStarter.xcodeproj">
+               BuildableName = "tod-tvOSTests.xctest"
+               BlueprintName = "tod-tvOSTests"
+               ReferencedContainer = "container:tod.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "RNFirebaseStarter-tvOS.app"
-            BlueprintName = "RNFirebaseStarter-tvOS"
-            ReferencedContainer = "container:RNFirebaseStarter.xcodeproj">
+            BuildableName = "tod-tvOS.app"
+            BlueprintName = "tod-tvOS"
+            ReferencedContainer = "container:tod.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "RNFirebaseStarter-tvOS.app"
-            BlueprintName = "RNFirebaseStarter-tvOS"
-            ReferencedContainer = "container:RNFirebaseStarter.xcodeproj">
+            BuildableName = "tod-tvOS.app"
+            BlueprintName = "tod-tvOS"
+            ReferencedContainer = "container:tod.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "RNFirebaseStarter-tvOS.app"
-            BlueprintName = "RNFirebaseStarter-tvOS"
-            ReferencedContainer = "container:RNFirebaseStarter.xcodeproj">
+            BuildableName = "tod-tvOS.app"
+            BlueprintName = "tod-tvOS"
+            ReferencedContainer = "container:tod.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
